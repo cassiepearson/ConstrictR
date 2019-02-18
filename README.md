@@ -1,4 +1,4 @@
-# ConstrictR
+# ConstrictR - A Microbiomics R Package
 
 #### About
 This is the ConstrictR data analysis library for R. Testing is still in progress, however an initial release will be coming soon. This project is tied to its server side interface of ConstrictPy which will be released with ConstrictR.
